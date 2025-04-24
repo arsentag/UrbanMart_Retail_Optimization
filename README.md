@@ -21,7 +21,8 @@ This proejct explores sales, customer behavior, and discounting strategy at Urba
 - Replicate West region strategy in weaker zones
 
   ## Deliverables
-  | File | Description |
+| File | Description |
+
 | 'Superstore_Cleaned.xlsx/.csv' | Cleaned dataset  
 | 'Data_Cleaning.ipynb' & 'EDA.ipynb' & 'KPI_Calculation.ipynb' | Python notebooks for data preprocessing & data analysis  
 | 'EDA_UrbanMart.xlsx' | Pivot-based EDA in Excel  
