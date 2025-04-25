@@ -22,7 +22,7 @@ This proejct explores sales, customer behavior, and discounting strategy at Urba
 
   ## Deliverables
 | File | Description |
-
+|------|-------------|
 | 'Superstore_Cleaned.xlsx/.csv' | Cleaned dataset  
 | 'Data_Cleaning.ipynb' & 'EDA.ipynb' & 'KPI_Calculation.ipynb' | Python notebooks for data preprocessing & data analysis  
 | 'EDA_UrbanMart.xlsx' | Pivot-based EDA in Excel  
@@ -33,4 +33,4 @@ This proejct explores sales, customer behavior, and discounting strategy at Urba
 
 ---
 
-> *This project was conducted independently with curated support from ChatGPT for process structuring, review, and business communication.*
+> This project was conducted independently with curated support from ChatGPT for process structuring, review, and business communication.
