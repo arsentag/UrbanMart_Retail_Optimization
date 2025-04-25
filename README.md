@@ -1,6 +1,7 @@
 # UrbanMart_Retail_Optimization
 
 **Tools:** Python, Excel, Tableau
+**Dataset:** Tableau Sample Superstore (rebranded for simulation)
 **Prepared by:** Arsen Tagibekov
 **Date:** March, 2025
 
